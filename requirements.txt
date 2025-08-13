@@ -1,0 +1,14 @@
+streamlit
+streamlit-option-menu
+pandas
+numpy
+fpdf
+requests
+bcrypt
+pyotp
+qrcode
+scikit-learn
+imbalanced-learn
+flwr
+Flask
+Flask-Cors
